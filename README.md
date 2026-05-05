@@ -18,7 +18,7 @@ By applying a Pareto analysis, I discovered a massive geographic concentration i
 
 ![Pareto Analysis Chart](pareto-chart.png) 
 
-## 💻 SQL Logic
+## SQL Logic
 To calculate the running total and cumulative percentage, I used nested CTEs and Window Functions. This approach ensures the logic is modular, readable, and performant.
 
 You can view the full, commented SQL script in the [`pareto_analysis.sql`](pareto_analysis.sql) file.
