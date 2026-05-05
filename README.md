@@ -9,7 +9,7 @@ This project analyzes the real-world **Olist Brazilian E-Commerce dataset (2016-
 * **Data Visualization:** Power BI (Pareto Chart, Custom Formatting, Data Storytelling)
 
 ## The Business Problem
-Olist delivers to over 4,000 unique cities across Brazil[cite: 1]. Spreading marketing and logistics budgets evenly across all regions is inefficient. The objective was to find the "Top N" cities that generate the most significant portion of total revenue to optimize business focus.
+Olist delivers to over 4,000 unique cities across Brazil. Spreading marketing and logistics budgets evenly across all regions is inefficient. The objective was to find the "Top N" cities that generate the most significant portion of total revenue to optimize business focus.
 
 ## Key Findings & Dashboard
 By applying a Pareto analysis, I discovered a massive geographic concentration in sales:
