@@ -16,8 +16,7 @@ By applying a Pareto analysis, I discovered a massive geographic concentration i
 * **Less than 1%** of all Brazilian cities (the Top 30) generate **45% of total revenue**[cite: 1].
 * The top 3 cities (**São Paulo, Rio de Janeiro, and Belo Horizonte**) alone are the absolute powerhouse of the market[cite: 1].
 
-![Pareto Analysis Chart](pareto_chart.png) 
-*(Note: Make sure the image filename matches your uploaded file)*
+![Pareto Analysis Chart](pareto-chart.png) 
 
 ## 💻 SQL Logic
 To calculate the running total and cumulative percentage, I used nested CTEs and Window Functions. This approach ensures the logic is modular, readable, and performant.
