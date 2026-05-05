@@ -5,7 +5,7 @@ This project analyzes the real-world **Olist Brazilian E-Commerce dataset (2016-
 
 ## Tools & Technologies Used
 * **Database:** MySQL
-* **Techniques:** Advanced SQL (Common Table Expressions - CTEs, Window Functions `SUM() OVER()`, `ROW_NUMBER()`, Data Aggregation)
+* **Techniques:** Advanced SQL (Common Table Expressions - CTEs, Window Functions `SUM() OVER()`, Data Aggregation)
 * **Data Visualization:** Power BI (Pareto Chart, Custom Formatting, Data Storytelling)
 
 ## The Business Problem
